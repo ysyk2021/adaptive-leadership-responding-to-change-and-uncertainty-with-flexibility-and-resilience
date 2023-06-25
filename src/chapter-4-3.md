@@ -1,5 +1,4 @@
-Chapter 4: Leading Through Change: Communicating Effectively During Periods of Change
-=====================================================================================
+# Communicating Effectively During Periods of Change
 
 In this chapter, we will explore the importance of effective communication during periods of change and strategies for leading through change.
 

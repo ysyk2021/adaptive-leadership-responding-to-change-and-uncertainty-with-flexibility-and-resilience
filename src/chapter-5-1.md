@@ -1,5 +1,4 @@
-Chapter 5: Leading Through Uncertainty: Approaches for Leading During Times of Uncertainty
-==========================================================================================
+# Approaches for Leading During Times of Uncertainty
 
 In this chapter, we will explore the various approaches that leaders can take to effectively lead during times of uncertainty.
 

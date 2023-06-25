@@ -1,5 +1,4 @@
-Chapter 2: Understanding Adaptive Leadership: How Adaptive Leadership Differs from Traditional Leadership
-=========================================================================================================
+# How Adaptive Leadership Differs from Traditional Leadership
 
 In this chapter, we will explore how adaptive leadership differs from traditional leadership.
 

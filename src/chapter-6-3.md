@@ -1,5 +1,4 @@
-Chapter 6: Fostering Resilience in Yourself and Your Team: Encouraging Growth and Learning from Adversity
-=========================================================================================================
+# Encouraging Growth and Learning from Adversity
 
 In this chapter, we will explore how to encourage growth and learning from adversity as a strategy for fostering resilience in yourself and your team.
 

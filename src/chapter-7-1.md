@@ -1,5 +1,4 @@
-Chapter 7: Collaboration and Teamwork in Adaptive Leadership: Building Effective Teams
-======================================================================================
+# Building Effective Teams
 
 In this chapter, we will explore strategies for building effective teams in adaptive leadership.
 

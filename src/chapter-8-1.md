@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Common Challenges in Adaptive Leadership: Dealing with Resistance and Pushback
-====================================================================================================
+# Dealing with Resistance and Pushback
 
 In this chapter, we will explore the common challenges that arise in adaptive leadership and strategies for dealing with resistance and pushback.
 

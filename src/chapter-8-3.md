@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Common Challenges in Adaptive Leadership: Navigating Ethical Dilemmas
-===========================================================================================
+# Navigating Ethical Dilemmas
 
 In this chapter, we will explore strategies for navigating ethical dilemmas as a common challenge in adaptive leadership.
 

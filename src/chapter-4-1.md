@@ -1,5 +1,4 @@
-Chapter 4: Leading Through Change: Strategies for Leading Through Organizational Change
-=======================================================================================
+# Strategies for Leading Through Organizational Change
 
 In this chapter, we will explore strategies for effectively leading through organizational change.
 

@@ -1,5 +1,4 @@
-Chapter 5: Leading Through Uncertainty: Maintaining Focus and Direction in Uncertain Times
-==========================================================================================
+# Maintaining Focus and Direction in Uncertain Times
 
 In this chapter, we will explore strategies for maintaining focus and direction as a leader in uncertain times.
 

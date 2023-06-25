@@ -1,5 +1,4 @@
-Chapter 3: Building Adaptive Leadership Skills: Practicing Flexibility and Adaptability
-=======================================================================================
+# Practicing Flexibility and Adaptability
 
 In this chapter, we will explore the importance of practicing flexibility and adaptability for building adaptive leadership skills.
 

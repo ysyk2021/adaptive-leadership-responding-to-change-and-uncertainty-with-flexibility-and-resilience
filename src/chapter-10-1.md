@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Summary of Key Points
-=============================================
+# Summary of Key Points
 
 In this book, we have explored the concept of adaptive leadership and strategies for responding to change and uncertainty with flexibility and resilience. Here are some of the key points from each chapter:
 

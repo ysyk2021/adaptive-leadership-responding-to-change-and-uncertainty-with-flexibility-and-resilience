@@ -1,5 +1,4 @@
-Chapter 6: Fostering Resilience in Yourself and Your Team: Creating a Resilient Team Culture
-============================================================================================
+# Creating a Resilient Team Culture
 
 In this chapter, we will explore how to create a resilient team culture as a strategy for fostering resilience in yourself and your team.
 

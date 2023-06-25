@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Adaptive Leadership in the Long Term: Continual Learning and Growth
-=========================================================================================
+# Continual Learning and Growth
 
 In this chapter, we will explore the importance of continual learning and growth for sustaining adaptive leadership in the long term.
 

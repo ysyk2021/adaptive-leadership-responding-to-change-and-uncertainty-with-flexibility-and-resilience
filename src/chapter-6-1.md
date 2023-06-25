@@ -1,5 +1,4 @@
-Chapter 6: Fostering Resilience in Yourself and Your Team: Building Resilience through Self-Care and Stress Management
-======================================================================================================================
+# Building Resilience through Self-Care and Stress Management
 
 In this chapter, we will explore how to build resilience through self-care and stress management.
 

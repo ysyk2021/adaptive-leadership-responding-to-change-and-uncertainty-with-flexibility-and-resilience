@@ -1,5 +1,4 @@
-Chapter 3: Building Adaptive Leadership Skills: Developing Self-awareness
-=========================================================================
+# Developing Self-awareness
 
 In this chapter, we will explore the importance of developing self-awareness for building adaptive leadership skills.
 
