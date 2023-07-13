@@ -1,5 +1,8 @@
 # Conclusion
 
+Chapter 10: Conclusion
+======================
+
 In this book, we have explored the concept of adaptive leadership and strategies for responding to change and uncertainty with flexibility and resilience. In this final chapter, we will summarize the key points and discuss future directions for adaptive leadership.
 
 Summary of Key Points
