@@ -7,11 +7,6 @@ What is Traditional Leadership?
 
 Traditional leadership is a hierarchical leadership approach that emphasizes stability, predictability, and maintaining the status quo. Traditional leaders often have a clear vision and strategy for their organization, and they focus on achieving those goals through established processes and procedures.
 
-What is Adaptive Leadership?
-----------------------------
-
-Adaptive leadership is a more flexible and agile leadership approach that emphasizes the ability to adapt to changing circumstances and respond with resilience and agility. Adaptive leaders are able to navigate uncertainty and ambiguity, identify opportunities for growth and development, and inspire their teams to achieve success.
-
 How Does Adaptive Leadership Differ from Traditional Leadership?
 ----------------------------------------------------------------
 
