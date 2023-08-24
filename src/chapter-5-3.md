@@ -1,4 +1,3 @@
-# Maintaining Focus and Direction in Uncertain Times
 
 In this chapter, we will explore strategies for maintaining focus and direction as a leader in uncertain times.
 

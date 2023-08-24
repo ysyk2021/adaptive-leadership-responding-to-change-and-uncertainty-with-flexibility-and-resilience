@@ -1,4 +1,3 @@
-# Empowering Team Members to Take Ownership
 
 In this chapter, we will explore how empowering team members to take ownership can enhance collaboration and teamwork in adaptive leadership.
 

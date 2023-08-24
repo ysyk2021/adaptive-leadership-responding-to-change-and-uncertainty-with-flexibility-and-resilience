@@ -1,4 +1,3 @@
-# Managing Risk and Ambiguity
 
 In this chapter, we will explore strategies for managing risk and ambiguity as a leader in uncertain times.
 

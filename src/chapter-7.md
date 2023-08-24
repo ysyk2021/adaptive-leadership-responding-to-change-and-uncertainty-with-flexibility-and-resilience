@@ -1,5 +1,3 @@
-Chapter 7: Collaboration and Teamwork in Adaptive Leadership
-============================================================
 
 In this chapter, we will explore the importance of collaboration and teamwork in adaptive leadership, and strategies for building effective teams, encouraging collaboration and creative problem-solving, and empowering team members to take ownership.
 

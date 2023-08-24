@@ -1,4 +1,3 @@
-# The Role of Emotional Intelligence in Adaptive Leadership
 
 In this chapter, we will explore the role of emotional intelligence in adaptive leadership.
 

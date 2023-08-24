@@ -1,4 +1,3 @@
-# Continual Learning and Growth
 
 In this chapter, we will explore the importance of continual learning and growth for sustaining adaptive leadership in the long term.
 

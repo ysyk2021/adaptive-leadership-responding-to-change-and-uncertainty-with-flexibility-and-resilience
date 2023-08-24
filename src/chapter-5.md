@@ -1,5 +1,3 @@
-Chapter 5: Leading Through Uncertainty
-======================================
 
 In this chapter, we will explore the challenges of leading through uncertainty and strategies for effective leadership during times of change and ambiguity.
 

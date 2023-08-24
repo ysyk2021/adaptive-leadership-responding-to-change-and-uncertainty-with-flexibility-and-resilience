@@ -1,4 +1,3 @@
-# Evaluating and Adapting Your Leadership Approach
 
 In this chapter, we will explore how to sustain adaptive leadership in the long term by evaluating and adapting your leadership approach.
 

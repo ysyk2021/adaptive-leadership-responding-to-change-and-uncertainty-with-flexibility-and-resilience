@@ -1,4 +1,3 @@
-# Navigating Resistance and Conflict
 
 In this chapter, we will explore the challenges of navigating resistance and conflict during periods of change and strategies for leading through these challenges.
 

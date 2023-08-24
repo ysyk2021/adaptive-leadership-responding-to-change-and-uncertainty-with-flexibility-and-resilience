@@ -1,4 +1,3 @@
-# Definition of Adaptive Leadership
 
 In this chapter, we will define adaptive leadership and explore its importance in today's rapidly changing world.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding Adaptive Leadership
-============================================
 
 In this chapter, we will explore the principles and characteristics of adaptive leadership, the role of emotional intelligence in adaptive leadership, and how adaptive leadership differs from traditional leadership.
 

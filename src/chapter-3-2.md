@@ -1,4 +1,3 @@
-# Cultivating a Growth Mindset
 
 In this chapter, we will explore the importance of cultivating a growth mindset for building adaptive leadership skills.
 

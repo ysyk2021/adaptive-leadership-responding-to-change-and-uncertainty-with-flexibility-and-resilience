@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Adaptive Leadership in the Long Term
-==========================================================
 
 In this chapter, we will explore strategies for sustaining adaptive leadership in the long term.
 

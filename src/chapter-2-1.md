@@ -1,4 +1,3 @@
-# The Principles and Characteristics of Adaptive Leadership
 
 In this chapter, we will explore the principles and characteristics of adaptive leadership.
 

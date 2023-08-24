@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will introduce the concept of adaptive leadership and explore its importance in times of change and uncertainty.
 

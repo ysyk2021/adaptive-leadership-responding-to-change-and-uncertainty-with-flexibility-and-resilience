@@ -1,4 +1,3 @@
-# Building Effective Teams
 
 In this chapter, we will explore strategies for building effective teams in adaptive leadership.
 

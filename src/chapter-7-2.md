@@ -1,4 +1,3 @@
-# Encouraging Collaboration and Creative Problem-Solving
 
 In this chapter, we will explore the importance of collaboration and teamwork in adaptive leadership and strategies for encouraging collaboration and creative problem-solving.
 

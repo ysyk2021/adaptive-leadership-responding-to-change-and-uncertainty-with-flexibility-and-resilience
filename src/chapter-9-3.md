@@ -1,4 +1,3 @@
-# Developing the Next Generation of Adaptive Leaders
 
 In this chapter, we will explore strategies for developing the next generation of adaptive leaders and sustaining adaptive leadership in the long term.
 

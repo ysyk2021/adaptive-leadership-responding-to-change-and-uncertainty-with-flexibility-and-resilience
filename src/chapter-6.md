@@ -1,5 +1,3 @@
-Chapter 6: Fostering Resilience in Yourself and Your Team
-=========================================================
 
 In this chapter, we will explore strategies for fostering resilience in yourself and your team.
 
