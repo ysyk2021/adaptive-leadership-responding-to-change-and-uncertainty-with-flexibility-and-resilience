@@ -1,5 +1,4 @@
-Chapter: Dealing with Resistance and Pushback
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

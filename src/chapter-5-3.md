@@ -1,5 +1,4 @@
-Chapter: Maintaining Focus and Direction in Uncertain Times
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

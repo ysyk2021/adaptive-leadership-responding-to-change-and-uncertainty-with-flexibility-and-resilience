@@ -1,5 +1,4 @@
-Chapter: Approaches for Leading During Times of Uncertainty
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
